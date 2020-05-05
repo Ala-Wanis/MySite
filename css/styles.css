@@ -1,0 +1,151 @@
+/***********************************************************
+body {
+    background-color: f1f3f4;
+}
+h1{
+    color: 512b58;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 70px;
+    padding-top:5%;
+    text-align: center;
+}
+h1:active {
+    color: 79bac1;
+
+}
+h3 {
+    color: 512b58;
+    padding-bottom:2%;
+    text-align: center;
+
+} 
+****************************************************************/
+body{
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+   color: #545454;
+}
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #45b29a;
+}
+h2 {
+    font-size: 180%;
+    font-family: 'Montserrat', sans-serif;
+    color: #1e836c;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #45b29a;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border:dotted #f0f0f0 6px ;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+   
+}
+.top-container {
+    background-color:#e0ebe8;
+    position: relative;
+    padding-top: 100px; 
+}
+
+.middle-container {
+    margin: 100px 0;
+   
+}
+.bottom-container {
+    background-color: #c5ded7;
+    text-align:center;
+    padding: 50px 0 20px;
+   
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;;
+}
+.bottom-cloud {
+    position: absolute;
+    right:80%;
+    bottom:50%;
+}
+.subtitle {
+    color: #45b29a;
+    font-weight: normal;
+}
+
+.hello {
+    color: #45b29a;
+}
+.intro {
+    width:30%;
+    margin: auto;
+}
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.typing-img{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+.typing-skill-description {
+    clear: right;
+}
+
+.contact-me {
+    line-height:2 ;
+}
+.copy-rights {
+    color: #45b29a;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn {
+   
+    background-color: #45b29a;
+    border-radius: 8px;
+    color: white;
+    font-size: medium;
+    font-family: 'Merriweather', serif;
+    padding: 10px;
+    text-decoration: none;
+   
+}
+.btn:hover {
+    color: #1a443b;
+}
+.Ala-imag {
+    border-radius: 50px;
+}
+
+a {
+    color: #45b29a;
+    margin:30px;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+}
+a:hover {
+    color: #1a443b;
+
+}
+
